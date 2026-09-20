@@ -71,21 +71,6 @@ Handles student portal and application-related issues escalated from the Student
 
 Handles hardware, network, software, and access-related issues escalated from the Student Service Desk.
 
-
-# Support Teams
-
-## Student Service Desk
-
-Handles first-level support, initial troubleshooting, and ticket triage.
-
-## Student Application Support
-
-Handles student portal and application-related issues escalated from the Student Service Desk.
-
-## Student IT Support
-
-Handles hardware, network, software, and access-related issues escalated from the Student Service Desk.
-
 ---
 
 # ServiceNow Components Used
