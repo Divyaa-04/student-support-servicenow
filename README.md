@@ -381,9 +381,20 @@ student-support-servicenow/
 │
 ├── README.md
 │
-└── screenshots/
-
----
+├── screenshots/
+│   ├── README.md
+│   ├── 01-users-groups.png
+│   ├── 02-incident-management.png
+│   ├── 03-service-catalog-item.png
+│   ├── 03-service-catalog-request.png
+│   ├── 04-knowledge-management.png
+│   ├── 05-flow-designer.png
+│   ├── 06-cmdb.png
+│   ├── 07-report-configuration.png
+│   └── 08-atf-testing.png
+│
+└── docs/
+    └── testing-scenarios.md
 ```
 
 # Project Status
